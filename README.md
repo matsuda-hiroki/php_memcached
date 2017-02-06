@@ -14,3 +14,6 @@ chkconfig memcached on
 
 # Link reference
 http://blog.nomadscafe.jp/2013/12/memcached-2.html
+
+# Using memcached with php
+Look set.php and get.php
